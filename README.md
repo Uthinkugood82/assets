@@ -79,3 +79,7 @@ Additionally, spam-like behavior, including but not limited to mass distribution
 ## License
 
 The scripts and documentation in this project are released under the [MIT License](LICENSE)
+https://github.com/EverexIO/Ethplorer.wiki.git
+https://github.com/EverexIO/Ethp (token 256
+
+lorer.wiki.git
