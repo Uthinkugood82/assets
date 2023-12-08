@@ -1,3 +1,39 @@
+{"Nombre": "Bitcoin",
+
+"Sitio web": "https://bitcoin.org",
+
+"Descripción": "Bitcoin es una criptomoneda y un sistema de pago mundial. Es la primera moneda digital descentralizada, ya que el sistema funciona sin un banco central o un solo administrador".
+
+"Exploratorio": "https://blockchain.info",
+
+"Investigación": "https://research.binance.com/en/projects/bitcoin",
+
+"Símbolo": "BTC",
+
+"Tipo": "moneta",
+
+"Decimales": 8,
+
+"Estado": "activo",
+
+"Enlaces": [
+
+{
+
+"Nombre": "github",
+
+"Url": "https://github.com/bitcoin"
+
+},
+
+{
+
+"Nombre": "twitter",
+
+"Url": "https://twitter.com/Bitcoin"
+
+},
+
 {
     "name": "Bitcoin",
     "website": "https://bitcoin.org",
